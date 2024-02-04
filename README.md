@@ -28,4 +28,4 @@ After executing the command above:
 [MIT license](https://github.com/mozu-dev/pixel-thresholder/blob/main/LICENSE)
 
 ## Credit
-- Illustration by ziro_
+Illustration by ziro_
