@@ -22,7 +22,7 @@ Before executing the command above:
 
 After executing the command above:
 
-![after](https://github.com/mozu-dev/pixel-thresholder/blob/main/output/image_binary.png)
+![after](https://github.com/mozu-dev/pixel-thresholder/blob/main/output/image_binary_alpha.png)
 
 ## License
 [MIT license](https://github.com/mozu-dev/pixel-thresholder/blob/main/LICENSE)
